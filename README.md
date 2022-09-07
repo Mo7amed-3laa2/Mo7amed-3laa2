@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
 <h3 align="center">A passionate fresh graduated in computer engineer, from Egypt</h3>
 
-- 👯 I’m currently open for: **An Intern in SW developing**
+- 👯 I’m currently open for: **DevOps Engineer opportunity**
 
-- 📫 My E-Mail **mohamed1998.alaa1998@gmail.com**
+- 📫 My E-Mail **dev.mohamedalaa98@gmail.com**
 
 - 📄 Thats my resume (CV) [https://drive.google.com/file/d/1K2EktUl2uJmBymGdRMCFWebnuDrAQCK8/view?usp=sharing](https://drive.google.com/file/d/1K2EktUl2uJmBymGdRMCFWebnuDrAQCK8/view?usp=sharing)
 
