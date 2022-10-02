@@ -7,7 +7,7 @@
 
 - 📄 Thats my resume (CV) [https://drive.google.com/file/d/1K2EktUl2uJmBymGdRMCFWebnuDrAQCK8/view?usp=sharing](https://drive.google.com/file/d/1K2EktUl2uJmBymGdRMCFWebnuDrAQCK8/view?usp=sharing)
 
-- ⚡ Fun fact about me **I like fixing computer problems.**
+- ⚡ Fun fact about me **I like troubleshooting computer problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
